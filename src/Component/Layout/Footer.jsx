@@ -78,7 +78,7 @@ const Footer = () => {
                 <LocationOnOutlinedIcon sx={{color:'gold', fontSize:35}}/> 123 Street, Nigdi Pune.
               </li>
               <li className='text-md mb-2 text-gray-400 hover:text-teal-400 duration-300 cursor-pointer leading-6'>
-                <CallOutlinedIcon sx={{color:'gold', fontSize:35}}/> 123 Street, Nigdi Pune.
+                <CallOutlinedIcon sx={{color:'gold', fontSize:35}}/> 1234567890
               </li>
               <li className='text-md text-gray-400 hover:text-teal-400 duration-300 cursor-pointer leading-6'>
                 <WhatsAppIcon sx={{color:'gold', fontSize:35}}/> 123 Street, Nigdi Pune.
